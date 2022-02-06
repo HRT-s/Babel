@@ -32,4 +32,4 @@ WASD:移動
 - スコアボード表示(PhotonScoreView.cs, ScoreManager.cs)
 
 ## 開発期間
-7月下旬~11月
+2021年7月下旬~11月
