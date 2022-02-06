@@ -1,6 +1,10 @@
 # バベル転生
 サークルメンバー5名でオンライン鬼ごっこゲームを作成した。
 
+## 使用言語・ツール等
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+
 ## UnityRoomに公開中
 バベル転生: <https://unityroom.com/games/k3babel>
 
